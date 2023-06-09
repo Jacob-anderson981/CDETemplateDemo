@@ -24,7 +24,7 @@
                 "coding": [
                     {
                         "system": "https://www.radelement.org", 
-                        "code": "1652", 
+                        "code": "RDE1652", 
                         "display": "Presence"
                     }
                 ]
@@ -33,7 +33,7 @@
                 "coding": [
                     {
                         "system": "https://www.radelement.org",
-                        "code": "1652.0",
+                        "code": "RDE1652.0",
                         "display": "Present"
                     }
                 ]
